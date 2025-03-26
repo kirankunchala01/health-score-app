@@ -1,0 +1,15 @@
+# Ignore Python cache files
+__pycache__/
+
+# Ignore model files
+*.pkl
+
+# Ignore environment files
+.env
+
+# Ignore system files
+.DS_Store
+"__pycache__/" 
+"*.pkl" 
+".env" 
+".DS_Store" 
